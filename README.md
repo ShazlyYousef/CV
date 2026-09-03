@@ -11,6 +11,6 @@ Cybersecurity & Web Application Penetration Testing Specialist
 
 ### Quick Links
 - **LinkedIn:** [Shazly Youssef](https://www.linkedin.com/in/shazly-youssef-405091296)
-- **TryHackMe:** [oXra3d](https://tryhackme.com/p/oXra3d)
+- **TryHackMe:** [oXra3d](https://tryhackme.com/p/0Xra3d)
 - **GitHub:** [ShazlyYousef](https://github.com/ShazlyYousef)
 - **Email:** shezoyoussef@gmail.com
